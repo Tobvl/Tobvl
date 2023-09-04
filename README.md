@@ -1,4 +1,7 @@
-### Hi there 👋
+### Sup! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&weight=200&size=18&duration=3500&pause=1000&color=2DA7BA&background=0B0B0B00&center=true&width=435&lines=~+Tbvl;-+Hungry+for+knowledge)](https://git.io/typing-svg)
+
+⚡ Fun fact: Learning is free
 
 <!--
 **Tobvl/Tobvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +15,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
 -->
