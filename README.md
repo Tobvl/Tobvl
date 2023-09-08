@@ -8,6 +8,7 @@ I also love riding <a href="https://en.wikipedia.org/wiki/Motorcycle">Bikes!</a>
 </em></p>
 ⚡ Fun fact: Learning is free
 
+
 ## Projects in action 🤔
 
 - [Main Projects Webpage 🌱](https://projects.tbvl.cl)
