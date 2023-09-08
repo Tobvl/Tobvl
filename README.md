@@ -14,6 +14,8 @@ I also love riding <a href="https://en.wikipedia.org/wiki/Motorcycle">Bikes!</a>
 ## Contact-me! 📫
 
 - [Email 📧](mailto:cristobal@tbvl.cl) ~ cristobal@tbvl.cl
+- [LinkedIn 🔗](https://linkedin.com) ~ coming soon...
+
 
 ### About-me  😄
 
