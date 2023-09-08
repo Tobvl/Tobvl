@@ -9,7 +9,7 @@ I also love riding <a href="https://en.wikipedia.org/wiki/Motorcycle">Bikes!</a>
 
 ## Projects in action 🤔
 
-- [Main Projects Webpage 🌱](https://github.com/BarbaraCarvajal/portafolio-barbara-carvajal)
+- [Main Projects Webpage 🌱](https://projects.tbvl.cl)
 
 ## Contact-me! 📫
 
