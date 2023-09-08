@@ -36,7 +36,7 @@ class Tbvl():
             '06':'Rust'
             '07':'Pawn'
             }
-        self.code_tools = [':atom:', '🌶️', 'Django']
+        self.code_tools = ['⚛️', '🌶️', 'Django']
 
 ```
 
