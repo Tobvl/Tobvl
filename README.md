@@ -11,7 +11,21 @@
 
 - [Email 📧](mailto:cristobal@tbvl.com) ~ cristobal@tbvl.cl 
 ```python
-hi
+class Tbvl():
+    def __init__():
+        self.full_name = 'Cristobal Sanchez Diaz'
+        self.birth_date = '09/29/2001'
+        self.fav_languages = {
+            '01':'Python'
+            '02':'Java'
+            '03':'JavaScript'
+            '04':'HTML'
+            '05':'CSS'
+            '06':'Rust'
+            '07':'Pawn'
+            }
+        self.code_tools = [':atom_symbol:', ':hot_pepper:', 'Django']
+
 ```
 
 <!--
