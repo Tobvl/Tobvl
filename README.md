@@ -9,12 +9,16 @@
 
 ## Contact-me! 📫
 
-- [Email 📧](mailto:cristobal@tbvl.com) ~ cristobal@tbvl.cl 
+- [Email 📧](mailto:cristobal@tbvl.cl) ~ cristobal@tbvl.cl
+
+### About-me  😄
+
 ```python
 class Tbvl():
     def __init__():
         self.full_name = 'Cristobal Sanchez Diaz'
         self.birth_date = '09/29/2001'
+        self.pronouns = ['he', 'him']
         self.fav_languages = {
             '01':'Python'
             '02':'Java'
@@ -27,6 +31,8 @@ class Tbvl():
         self.code_tools = [':atom_symbol:', ':hot_pepper:', 'Django']
 
 ```
+
+<em><b>I love learning new stuff everyday</b> so if you want learn with me or just say <b>hi, I'll be happy chat with you!</b> =D</em>
 
 <!--
 **Tobvl/Tobvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
