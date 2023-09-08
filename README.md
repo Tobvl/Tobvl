@@ -1,7 +1,8 @@
 ### Hello World ^^ 👋
 [![Tbvl's Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&weight=200&size=18&duration=3500&pause=1000&color=2DA7BA&background=0B0B0B00&width=435&lines=~+Tbvl;-+Hungry+for+knowledge)](https://git.io/typing-svg)
+<pre>
 <p><em>Computer Engineering Student at <a href="https://inacap.cl"> INACAP Chile  </a><img src="https://media3.giphy.com/media/1oBwBVLGoLteCP2kyD/giphy.gif" width="30"></br>I also love riding <a href="https://en.wikipedia.org/wiki/Motorcycle"> Bikes!  </a><img src="https://media4.giphy.com/media/3oz8xwsGcaZWWB8KyY/giphy.gif" width="30"> 
-</em></p>
+</em></p> </pre>
 ⚡ Fun fact: Learning is free
 
 ## Projects in action 🤔
