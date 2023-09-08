@@ -2,9 +2,9 @@
 [![Tbvl's Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&weight=200&size=18&duration=3500&pause=1000&color=2DA7BA&background=0B0B0B00&width=435&lines=~+Tbvl;-+Hungry+for+knowledge)](https://git.io/typing-svg)
 
 <p><em>
-Computer Engineering Student at <a href="https://inacap.cl"><pre> INACAP Chile  </pre>pre></a><img src="https://media3.giphy.com/media/1oBwBVLGoLteCP2kyD/giphy.gif" width="30">
+Computer Engineering Student at <a href="https://inacap.cl"><pre> INACAP Chile  </pre></a><img src="https://media3.giphy.com/media/1oBwBVLGoLteCP2kyD/giphy.gif" width="30">
 </br>
-I also love riding <a href="https://en.wikipedia.org/wiki/Motorcycle"><pre> Bikes!  </pre>pre></a><img src="https://media4.giphy.com/media/3oz8xwsGcaZWWB8KyY/giphy.gif" width="30"> 
+I also love riding <a href="https://en.wikipedia.org/wiki/Motorcycle"><pre> Bikes!  </pre></a><img src="https://media4.giphy.com/media/3oz8xwsGcaZWWB8KyY/giphy.gif" width="30"> 
 </em></p>
 ⚡ Fun fact: Learning is free
 
