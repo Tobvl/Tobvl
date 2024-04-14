@@ -4,7 +4,7 @@
 Computer Engineering Student at <a href="https://inacap.cl">INACAP Chile</a> <img src="https://media3.giphy.com/media/1oBwBVLGoLteCP2kyD/giphy.gif" width="30">
 
     
-I also love riding <a href="https://en.wikipedia.org/wiki/Motorcycle">Bikes!</a> <img src="https://media4.giphy.com/media/3oz8xwsGcaZWWB8KyY/giphy.gif" width="30"> 
+I also love riding <a href="https://en.wikipedia.org/wiki/Motorcycle">Motorcycles!</a> <img src="https://media4.giphy.com/media/3oz8xwsGcaZWWB8KyY/giphy.gif" width="30"> 
 </em></p>
 ⚡ Fun fact: Learning is free
 
@@ -41,7 +41,7 @@ class Tbvl():
 
 ```
 
-<em><b>I love learning new stuff everyday</b> so if you want learn with me or just say <b>hi, I'll be happy chat with you!</b> =D</em>
+<em><b>I love learning new stuff everyday</b> so if you want to learn with me or just say <b>hi, I'll be happy to chat with you!</b> =D</em>
 
 <!--
 **Tobvl/Tobvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
