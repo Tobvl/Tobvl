@@ -8,14 +8,6 @@ I also love riding <a href="https://en.wikipedia.org/wiki/Motorcycle">Motorcycle
 </em></p>
 ⚡ Fun fact: Learning is free
 
-
-## Projects in action 🤔
-
-- [Main Projects Webpage 🌱](https://projects.tbvl.cl)
-- [Rut Validator SP](https://projects.tbvl.cl/rutvalidator-app)
-
-## Contact-me! 📫
-
 - [Email 📧](mailto:crisesadi@gmail.com) ~ crisesadi@gmail.com
 - [LinkedIn 🔗](https://linkedin.com) ~ coming soon...
 
@@ -23,7 +15,7 @@ I also love riding <a href="https://en.wikipedia.org/wiki/Motorcycle">Motorcycle
 ### About-me  😄
 
 ```python
-class Tbvl():
+class Tobvl():
     def __init__():
         self.full_name = 'Cristobal Sanchez Diaz'
         self.birth_date = '09/29/2001'
